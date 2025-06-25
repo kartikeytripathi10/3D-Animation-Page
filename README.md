@@ -45,8 +45,6 @@ cd 3D-Animation-Page
 └── .vscode/             # Editor settings (optional)
 ```
 
-## ✨ Screenshots
-> Add screenshots of your 3D model and layout (optional)
 
 ## 📜 License
 This project is open-source and free to use under the MIT License.
